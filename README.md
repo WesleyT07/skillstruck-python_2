@@ -1,1 +1,1 @@
-This week I did: While loops, Functions, Function parameters, and multiple parameters
+This week I did: Dictionaries, Adding and removing from dictionaries, dictionaries continued, Looping through a dictionary
