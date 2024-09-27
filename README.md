@@ -1,1 +1,1 @@
-This week I did: Dictionaries, Adding and removing from dictionaries, dictionaries continued, Looping through a dictionary
+This week I did: Looping through dictionaries continued and tuples
